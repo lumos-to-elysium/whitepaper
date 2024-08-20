@@ -1,5 +1,5 @@
 ---
-description: Official Axie Infinity Whitepaper, last updated August 2024
+description: Official Beast Born Whitepaper, last updated August 2024
 ---
 
 # Beast Born
