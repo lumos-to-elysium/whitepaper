@@ -1,3 +1,3 @@
 # Table of contents
 
-* [whitepaper](README.md)
+* [Beast Born](README.md)
