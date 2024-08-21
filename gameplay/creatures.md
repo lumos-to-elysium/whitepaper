@@ -2,9 +2,11 @@
 
 ## Creatures
 
+Creatures come in three rarities: <mark style="color:green;">Common</mark>, <mark style="color:purple;">Rare</mark>, and <mark style="color:orange;">Legendary</mark>. Rarer creatures have stronger abilities and higher health.
+
 ### Oregon
 
-Oregons are adorable little dragons inhabiting the enchanting realm of Elysium. They possess a deceptively cute appearance, concealing their true nature as formidable hunters who unfailingly secure their prey.
+Oregons are adorable little dragons inhabiting the enchanting realm of Elysium. Their deceptively cute appearance conceals their true nature as formidable hunters who unfailingly secure their prey.
 
 With their exceptional attacking and fire-breathing capabilities, Oregons excel as primary combatants, earning their reputation as creatures of the fighter archetype.
 
