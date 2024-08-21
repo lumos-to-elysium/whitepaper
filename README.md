@@ -8,7 +8,7 @@ description: Official Beast Born Whitepaper, last updated August 2024
 
 [Beast Borne ](https://beastborne.com/)is a web3 turn base PvP game where the player collects and breeds creatures, levels them up, and competes against other players with a group of 3 creatures.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<a href="https://beastborne.com/"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></a>
 
 ## Beast Borne World
 
