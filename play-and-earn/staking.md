@@ -10,13 +10,13 @@ Staking is a way to earn rewards by simply holding onto your **Beast Coin (BST)*
 
 ## Staking Beast Coin (BST)
 
-Staking is a core feature of the **Beast Borne** ecosystem. It allows players and investors to lock up their **Beast Coin (BST)** tokens for a fixed period to earn rewards. The staking mechanism in Beast Borne is inspired by the [HEX.io staking model](#user-content-fn-1)[^1], designed to incentivize long-term holding and active participation in the ecosystem.
+Staking is a core feature of the **Beast Borne** ecosystem. It allows players and investors to lock up their **Beast Coin (BST)** tokens for a fixed period to earn rewards. The Beast Borne staking mechanism incentivizes long-term holding and active participation in the ecosystem.
 
 ## **How Staking Works**
 
 ### **Staking Period**
 
-Participants can stake their BST tokens for a defined period, ranging from a few days to several years. The length of the staking period directly influences the rewards earned; longer staking periods yield higher returns.
+Participants can stake their BST tokens for a defined period, ranging from a few days to several years. The length of the staking period directly influences the rewards earned; more extended staking periods yield higher returns.
 
 ### **Stake Bonuses**
 
@@ -52,5 +52,3 @@ To begin staking, players and investors need to:
 2. **Select Staking Period:** Choose a staking period that aligns with their financial goals and desired level of commitment.
 3. **Initiate Stake:** Lock up their BST tokens through the staking interface provided by Beast Borne.
 4. **Earn Rewards:** Watch their staked BST grow as they earn rewards over the staking period.
-
-[^1]: [Mark Ts.](https://app.gitbook.com/u/5VkvCs179ecdhMw2x1ZpfzeNP6o1 "mention") should we mention this?

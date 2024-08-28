@@ -4,6 +4,8 @@ In **Beast Borne**, the in-game economy is powered by two currencies: **Crystals
 
 ## **Crystals**
 
+<figure><img src="../.gitbook/assets/Icon_token_5.png" alt="" width="188"><figcaption></figcaption></figure>
+
 **Crystals** are the primary in-game currency used for everyday transactions and upgrades within the game. They are earned through gameplay and utilized for various in-game activities:
 
 * **Buying Items**: Use Crystals to purchase items from the in-game shop, such as Healing Potions and other essential supplies to aid your journey.
@@ -19,6 +21,8 @@ In **Beast Borne**, the in-game economy is powered by two currencies: **Crystals
 * **Daily Rewards**: Collect Crystals through the game’s daily reward system, simply by logging in and playing regularly.
 
 ## **Coins (BST)**
+
+<figure><img src="../.gitbook/assets/Icon_token_9.png" alt="" width="188"><figcaption></figcaption></figure>
 
 **Coins (BST)** are the premium cryptocurrency within the **Beast Borne** ecosystem, used for more advanced features and transactions. Unlike Crystals, which are virtual in-game currency, Coins (BST) are an ERC-20 token operating on the Polygon network, adding real-world value to your in-game activities.
 

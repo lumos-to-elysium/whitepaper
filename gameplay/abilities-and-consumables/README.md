@@ -40,9 +40,29 @@ Based on the type of the creature, each of them has its default melee attacks. T
 
 After the battles, the creatures will not recover their health and the easy way to heal them is by using healing items. There will be 3 types of healing potions:
 
-* Small potion - recovers 20 health points - costs 25 crystals
-* Medium potion - recovers 60 health points - costs 50 crystals
-* Large potion - fully recovers creatures' health - costs 15 coins
+<div align="center">
+
+<figure><img src="../../.gitbook/assets/Icon_heal_1.png" alt="" width="75"><figcaption></figcaption></figure>
+
+</div>
+
+Small potion - recovers 20 health points - costs 25 crystals
+
+<div align="center">
+
+<figure><img src="../../.gitbook/assets/Icon_heal_2 (1).png" alt="" width="135"><figcaption></figcaption></figure>
+
+</div>
+
+Medium potion - recovers 60 health points - costs 50 crystals
+
+<div align="center">
+
+<figure><img src="../../.gitbook/assets/Icon_heal_3.png" alt="" width="139"><figcaption></figcaption></figure>
+
+</div>
+
+Large potion - fully recovers creatures' health - costs 15 coins
 
 \
 Health potions can be acquired from the Item store or players can get them as rewards for completing PVE or PVP matches&#x20;
