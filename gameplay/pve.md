@@ -1,6 +1,6 @@
 # PvE
 
-<figure><img src="../.gitbook/assets/Pve.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pve.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## Story Company
 

@@ -1,8 +1,6 @@
----
-description: 'PvP mode pits players against each other in two main sub-modes:'
----
-
 # PvP
+
+<figure><img src="../.gitbook/assets/Pvp.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## PvP Mode
 
@@ -10,20 +8,20 @@ description: 'PvP mode pits players against each other in two main sub-modes:'
 
 ### **Overview**
 
-In PvP mode, players are matched against each other in a randomly chosen battle environment. Each match begins with a coin flip to determine which player goes first. To maintain a smooth and fast-paced experience, a turn timer is implemented, ensuring that no player is left waiting for extended periods.
+In PvP mode, players are matched against each other in a randomly chosen battle environment. Each match begins with a coin flip to determine which player goes first. A turn timer is implemented to maintain a smooth and fast-paced experience, ensuring that no player is left waiting for extended periods.
 
 PvP mode features two sub-modes: **Regular** and **Ranked**, each catering to different player goals, from casual play to competitive ranking.
 
 ### **Regular Mode**
 
-**Regular Mode** is the entry-level PvP experience, offering a space for players to experiment with different combinations of creatures and abilities without the pressure of high stakes. This mode is accessible without any entry fee, allowing players to focus on improving their skills and strategies.
+**Regular Mode** is the entry-level PvP experience, allowing players to experiment with different combinations of creatures and abilities without the pressure of high stakes. This mode is accessible without any entry fee, allowing players to focus on improving their skills and strategies.
 
 * **Matchmaking**: Players are matched based on their account level, ensuring fair battles against opponents of similar experience and skill.
 * **Rewards**:
-  * **Winning**: Players earn 30 XP, 300 Crystals, and have a chance to receive a health potion.
+  * **Winning:** Players earn 30 XP and 300 Crystals and have a chance to receive a health potion.
   * **Losing**: Players earn 10 XP and have a chance to receive a health potion.
 
-Regular Mode serves as a practice ground, helping players refine their tactics before diving into the more competitive Ranked Mode.
+Regular Mode is a practice ground, helping players refine their tactics before diving into the more competitive Ranked Mode.
 
 ### **Ranked Mode**
 
@@ -43,7 +41,7 @@ Regular Mode serves as a practice ground, helping players refine their tactics b
 * **Dynamic Point Adjustments**:
   * Players receive additional rank points (+25) for defeating opponents of a higher rank.
   * Players earn fewer points (75 instead of 100) when defeating lower-ranked opponents.
-  * Similarly, losing to a higher-ranked opponent results in reduced point loss, while losing to a lower-ranked opponent increases the penalty.
+  * Similarly, losing to a higher-ranked opponent reduces point loss, while losing to a lower-ranked opponent increases the penalty.
 * **Entry Fee and Rewards**:
   * Ranked matches require an entry fee of 5 Coins (BST) per player, with the winner receiving 80% of the opponent's entry fee.
   * **Rewards for Winning**: 9 Coins, 100 XP, and a 40% chance to receive a medium health potion.
@@ -57,18 +55,18 @@ Regular Mode serves as a practice ground, helping players refine their tactics b
     * **Platinum**: 15 Coins, 8,000 Crystals, 2,500 XP
     * **Diamond**: 20 Coins, 10,000 Crystals, 3,000 XP
 
-Players can earn these rewards only the first time they reach a new rank. If they drop in rank and climb back, the rewards are not reissued.
+Players can earn these rewards only once they reach a new rank. The rewards are not reissued if they drop in rank and climb back.
 
 ### **Leaderboards and Rank Resets**
 
-Ranked Mode features a leaderboard that tracks player rankings based on their total rank points. Seasons last between 3 to 6 months, after which ranks are reset. At the beginning of a new season, players start two ranks below their previous position, creating fresh opportunities to compete for the top spots.
+Ranked Mode features a leaderboard that tracks player rankings based on their total rank points. Seasons last between 3 and 6 months, after which ranks are reset. At the beginning of a new season, players start two ranks below their previous position, creating fresh opportunities to compete for the top spots.
 
-**Seasonal Rewards** are distributed to players who finish in top positions, offering additional Coins (BST) and other valuable items, motivating players to maintain or improve their ranks each season.
+**Seasonal Rewards** are distributed to players who finish in top positions. They offer additional Coins (BST) and other valuable items, motivating players to maintain or improve their ranks each season.
 
 ### **PvP Matchmaking**
 
 * **Regular Mode**: Matchmaking is based on account level, aiming to find opponents of similar experience.
-* **Ranked Mode**: Matchmaking is based on rank points, with the system prioritizing players at the same rank or within one rank range.
+* **Ranked Mode**: Matchmaking is based on rank points, prioritizing players at the same rank or within one rank range.
 
 ### **Match Completion Pop-ups**
 
