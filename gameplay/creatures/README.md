@@ -10,7 +10,7 @@ Creatures come in three rarities: <mark style="color:yellow;">Common</mark>, <ma
 
 ### Oregon
 
-<figure><img src="../.gitbook/assets/oregon_01.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/oregon_01.png" alt="" width="188"><figcaption></figcaption></figure>
 
 Oregons are adorable little dragons inhabiting the enchanting realm of Elysium. Their deceptively cute appearance conceals their true nature as formidable hunters who unfailingly secure their prey.
 
@@ -18,7 +18,7 @@ With their exceptional attacking and fire-breathing capabilities, Oregons excel 
 
 ### Sharkman
 
-<figure><img src="../.gitbook/assets/sharkman_01.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sharkman_01.png" alt="" width="188"><figcaption></figcaption></figure>
 
 In the lakes of Elysium dwell the fearsome Sharkmen, relentless hunters that strike terror into the hearts of those who venture near.
 
@@ -28,7 +28,7 @@ Revered as tank archetypes, Sharkmen can draw opponents' attention, effectively 
 
 ### Zunnie
 
-<figure><img src="../.gitbook/assets/zonnies_01.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/zonnies_01.png" alt="" width="188"><figcaption></figcaption></figure>
 
 Zunnies, seemingly adorable creatures at a glance, harbor an inner chaos that manifests through their ability to release toxic gases.
 
@@ -38,7 +38,7 @@ Zunnies wield the power to heal, poison, or unleash chaotic damage upon those in
 
 ### Moonbit
 
-<figure><img src="../.gitbook/assets/mon-bits_01.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mon-bits_01.png" alt="" width="188"><figcaption></figcaption></figure>
 
 Residing within the mystical realm of Elysium, Moonbits are enchanting fairies that radiate pure luminescence.
 

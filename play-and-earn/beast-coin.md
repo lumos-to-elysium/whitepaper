@@ -1,12 +1,12 @@
 ---
-description: Official address of BST token is 0xdac17f958d2ee523a2206206994597c13d831ec7
+description: Official address of BST token is <TBA>
 ---
 
 # Beast Coin
 
 ## Beast Coin (BST)
 
-The **Beast Coin (BST)** is the native utility token of the Beast Borne ecosystem, functioning as an ERC-20 token on the Polygon network. BST is integral to all in-game transactions and rewards, empowering players, creators, and stakeholders to fully participate in and benefit from the Beast Borne universe.
+The **Beast Coin (BST)** is the native utility token of the Beast Borne ecosystem, functioning as an ERC-20 token on the Polygon network. BST is integral to all in-game transactions and rewards, empowering players, creators, and stakeholders to participate in and benefit from the Beast Borne universe fully.
 
 ### **Key Features of Beast Coin**
 
