@@ -4,7 +4,7 @@ In **Beast Borne**, leveling up creatures is a crucial aspect of gameplay that e
 
 ## **How Leveling Up Works**
 
-Creatures start at level 1 and can be progressively leveled to increase their health, damage output, and access to more powerful abilities. Each level-up requires a specific amount of **Crystals**, which players can earn through gameplay activities such as completing missions, winning battles, and claiming daily rewards.
+Creatures start at level 1 and can be progressively leveled to increase their health, and access to more powerful abilities. Each level-up requires a specific amount of **Crystals**, which players can earn through gameplay activities such as completing missions, winning battles, and claiming daily rewards.
 
 ### **Level-Up Costs**
 
@@ -12,15 +12,15 @@ The following table outlines the Crystals required to level up creatures from le
 
 | **Level** | **Crystals Required** |
 | --------- | --------------------- |
-| Level 1   | 300 Crystals          |
-| Level 2   | 507 Crystals          |
-| Level 3   | 858 Crystals          |
-| Level 4   | 1,451 Crystals        |
-| Level 5   | 2,453 Crystals        |
-| Level 6   | 4,148 Crystals        |
-| Level 7   | 7,014 Crystals        |
-| Level 8   | 11,861 Crystals       |
-| Level 9   | 20,057 Crystals       |
+| Level 2   | 300 Crystals          |
+| Level 3   | 507 Crystals          |
+| Level 4   | 858 Crystals          |
+| Level 5   | 1,451 Crystals        |
+| Level 6   | 2,453 Crystals        |
+| Level 7   | 4,148 Crystals        |
+| Level 8   | 7,014 Crystals        |
+| Level 9   | 11,861 Crystals       |
+| Level 10  | 20,057 Crystals       |
 
 As the level increases, the cost of leveling up grows, reflecting the significant improvements in creature capabilities that each new level brings.
 

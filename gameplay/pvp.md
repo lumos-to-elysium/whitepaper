@@ -67,10 +67,3 @@ Ranked Mode features a leaderboard that tracks player rankings based on their to
 
 * **Regular Mode**: Matchmaking is based on account level, aiming to find opponents of similar experience.
 * **Ranked Mode**: Matchmaking is based on rank points, prioritizing players at the same rank or within one rank range.
-
-### **Match Completion Pop-ups**
-
-After each PvP match, a result screen shows the outcome:
-
-* **Victory Pop-up**: Displays the rewards earned, including XP, Crystals, and Coins (BST).
-* **Defeat Pop-up**: Shows the XP earned and any potential potion drops.

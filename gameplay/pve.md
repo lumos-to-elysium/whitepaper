@@ -19,7 +19,7 @@ In the PVE mode, there will be six chapters, each with six missions. (Overall, 3
 
 When completing the last level of the chapter and completing the chapter player will earn chapter completion rewards. Chapters will also have stars and the rewards will depend on how many stars players have got when completing missions in that chapter.
 
-* 3 Stars - if all levels of that chapter were completed with three stars - 2 coins
+* 3 Stars - if all levels of that chapter were completed with three stars - 5 coins
 * 2 Stars - if all levels of that chapter were completed with two stars or above - 2 coins
 * 1 Star - if all levels of that chapter were completed with one star or above - 1 coin
 
