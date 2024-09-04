@@ -36,7 +36,7 @@ $$
 
 Here, the system sets the **LPB** multiplier, with the maximum **LPB** achieved for a 10-year stake (3,650 days) effectively doubling the shares.
 
-#### 3. **Interest Accumulation Over Time**
+## **Interest Accumulation Over Time**
 
 Interest (or rewards) accumulates throughout the staking period. The total reward by the end of the staking period is calculated as:
 
@@ -50,7 +50,7 @@ Where:
 * **Total Shares\_n**: The total shares in the system on day ( n ).
 * **Daily Payout Pool\_n**: The daily payout pool on day ( n ).
 
-#### 4. **Early Unstaking Penalty**
+## **Early Unstaking Penalty**
 
 If you unstake before the end of the staking period, an early unstaking penalty is applied. The penalty typically reduces the interest earned and is calculated as:
 
@@ -64,19 +64,7 @@ Where:
 * **Days Remaining**: The number of days left in the original staking period.
 * **Staking Days**: The total number of days the stake was intended to last.
 
-#### 5. **Late Unstaking Penalty**
-
-A penalty is also applied if you do not end your stake on time (after the staking period ends). The late penalty is calculated on a daily basis:
-
-$$
-\text{Late Penalty} = \text{Interest Earned} \times \frac{\text{Late Days}}{100}
-$$
-
-Where:
-
-* **Late Days**: The number of days after the stake period ended that you are late in unstaking.
-
-### Example 1
+#### Example 1
 
 * **Share Rate**: 1 (for simplicity).
 * **Daily Payout Pool**: 1,000 BST (hypothetical value).
