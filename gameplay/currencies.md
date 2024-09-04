@@ -18,7 +18,6 @@ In **Beast Borne**, the in-game economy is powered by two currencies: **Crystals
 * **Daily PvE Missions**: Participate in daily missions to collect Crystals as a reward.
 * **Winning Matches**: Earn Crystals by winning both ranked and regular PvP matches.
 * **Rank-Up Rewards**: Receive Crystals when you achieve new ranks in the game.
-* **Daily Rewards**: Collect Crystals through the game’s daily reward system, simply by logging in and playing regularly.
 
 ## **Coins (BST)**
 
@@ -32,6 +31,7 @@ In **Beast Borne**, the in-game economy is powered by two currencies: **Crystals
 * **Breeding Costs**: Use Coins to breed creatures, creating new offspring with unique traits that enhance your gameplay.
 * **Reshuffling Ability Cards**: Perform standard or premium reshuffles of ability cards using Coins, giving you greater control over your creature’s abilities.
 * **Premium Reshuffling**: Opt for premium reshuffling, which allows you to choose from multiple ability cards, offering better strategic customization.
+* **Health Potion**: Use Coins to buy an enhanced potion that can cure any amount of damage.
 
 **How to Earn Coins (BST):** Coins (BST) are earned through more challenging and significant in-game achievements, such as:
 

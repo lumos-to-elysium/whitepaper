@@ -6,11 +6,11 @@ Combat is a central element of **Beast Borne**, offering players thrilling and s
 
 ### **Starting a Match**
 
-When a match begins, whether in PvP or PvE mode, the game loads the battle environment, and combat is initiated. Before any moves are made, a coin flip determines which player goes first. The coin has "1" on one side and "2" on the other, and once the outcome is decided, the battle starts.
+When a match begins in PvP or PvE mode, the game loads the battle environment, and combat is initiated. Before any moves are made, a coin flip determines which player goes first. The coin has "1" on one side and "2" on the other, and once the outcome is decided, the battle starts.
 
 ### **Combat Interface**
 
-During combat, the game’s user interface helps players make strategic decisions by clearly displaying the status of each creature and available actions.
+During combat, the game’s user interface helps players make strategic decisions by clearly displaying each creature's status and available actions.
 
 ### **During the Player’s Turn:**
 
@@ -22,7 +22,7 @@ During combat, the game’s user interface helps players make strategic decision
 ### **During the Opponent’s Turn:**
 
 * **Creature Icons**: The player’s creatures appear in a disabled state, with ability cards grayed out to indicate they cannot be used.
-* **Turn Information**: “Opponent’s Turn” text appears at the top, along with the current turn number.
+* **Turn Information**: “Opponent’s Turn” text and the current turn number appear at the top.
 * **Opponent Actions**: When the opponent plays a card, the used ability is displayed, allowing players to see the effects of each action.
 
 ### **Damage, Healing, and Status Effects**
@@ -39,7 +39,7 @@ When creatures are damaged or healed, the corresponding amount is visually displ
 * **Confusion Debuff**: Causes creatures to potentially misfire their attacks.
 * **Taunted (Red)** and **Taunt (Yellow Shield)**: Forces targeted behavior in combat.
 
-Each icon displays a number indicating the remaining turns the effect will last.
+Each icon displays a number indicating that the effect will last for the remaining turns.
 
 ### **Selecting Creatures and Using Abilities**
 
@@ -56,13 +56,45 @@ Each icon displays a number indicating the remaining turns the effect will last.
 * **Time Limit**: In PvP mode, each player has 30 seconds to complete their turn. A 10-second countdown appears after 20 seconds have passed, accompanied by sound effects. If no action is taken, the next turn begins with reduced time, allowing only 7 seconds until an action is performed.
 * **Inactivity**: If both players are inactive for three consecutive turns, the match ends, and a pop-up will indicate disconnection due to inactivity.
 
-### **Combat Menu**
+## Health Recovery
 
-The combat menu provides options to adjust settings or surrender the match:
+In **Beast Borne**, your creatures' health is a critical factor in their effectiveness during battles. After a battle, any damage sustained by your creatures does not automatically heal to full, requiring players to actively manage their recovery before the next encounter. Players have two primary options to restore a creature’s health: **Passive Recovery** and **Health Potions**.
 
-* **Settings**: Access sound and vibration options during combat.
-* **Surrender**: Players can surrender at any time, resulting in an immediate loss.
+### **Passive Recovery**
 
-### **Win and Lose Screens**
+Creatures gradually regain health over time at a rate of 1 HP per minute. This slow recovery allows players to continue using their creatures after rest, but it may not be sufficient if a creature has sustained significant damage.
 
-At the end of each match, whether won or lost, a result screen will display the outcome, showing rewards earned, including Crystals, Coins (BST), and other items. These screens reinforce the results of the battle and encourage players to refine their strategies for future matches.
+### **Health Potions**
+
+For immediate recovery, players can use Health Potions. These items provide instant healing, allowing creatures to regain their strength and return to battle quickly. There are three types of Health Potions available, each offering different levels of healing to suit the needs of your creatures.
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Icon_heal_1.png" alt="" width="75"><figcaption></figcaption></figure>
+
+</div>
+
+Small potion - recovers 20 health points - costs 25 crystals
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Icon_heal_2 (1).png" alt="" width="135"><figcaption></figcaption></figure>
+
+</div>
+
+Medium potion - recovers 60 health points - costs 50 crystals
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Icon_heal_3.png" alt="" width="139"><figcaption></figcaption></figure>
+
+</div>
+
+Large potion - fully recovers creatures' health - costs 3 coins
+
+\
+Health potions can be acquired from the Item store or players can get them as rewards for completing PVE or PVP matches&#x20;
+
+### Drop chances
+
+<table><thead><tr><th width="291">Drop condition</th><th width="156">Type</th><th>Drop Chance</th></tr></thead><tbody><tr><td>Winning Ranked PVP</td><td>Small</td><td>18%</td></tr><tr><td></td><td>Medium</td><td>14%</td></tr><tr><td></td><td>Large</td><td>8%</td></tr><tr><td>Losing Ranked PVP</td><td>Small</td><td>6%</td></tr><tr><td></td><td>Medium</td><td>14%</td></tr><tr><td></td><td>Large</td><td>11%</td></tr><tr><td>Winning Regular PVP</td><td>Small</td><td>15%</td></tr><tr><td></td><td>Medium</td><td>11%</td></tr><tr><td></td><td>Large</td><td>5%</td></tr><tr><td>Losing Regular PVP</td><td>Small</td><td>6%</td></tr><tr><td></td><td>Medium</td><td>8%</td></tr><tr><td></td><td>Large</td><td>6%</td></tr><tr><td>Completing PVE mission for the first time</td><td>Small</td><td>40%</td></tr><tr><td></td><td>Medium</td><td>40%</td></tr><tr><td></td><td>Large</td><td>20%</td></tr></tbody></table>

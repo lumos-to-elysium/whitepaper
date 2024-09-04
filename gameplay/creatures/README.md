@@ -6,7 +6,7 @@ description: v1.0.0
 
 ## Creatures
 
-Creatures come in three rarities: <mark style="color:yellow;">Common</mark>, <mark style="color:blue;">Rare</mark>, and <mark style="color:purple;">Legendary</mark>. Rarer creatures have stronger abilities and higher health.
+Creatures come in three rarities: <mark style="color:yellow;">Common</mark>, <mark style="color:blue;">Rare</mark>, and <mark style="color:purple;">Legendary</mark>. Rarer creatures have higher health.
 
 ### Oregon
 
