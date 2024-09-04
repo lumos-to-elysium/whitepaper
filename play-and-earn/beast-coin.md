@@ -17,7 +17,7 @@ The **Beast Coin (BST)** is the native utility token of the Beast Borne ecosyste
    * **PvP and PvE Rewards**: BST is awarded to players who excel in [PvP matches](../gameplay/pvp.md), complete [PvE missions](../gameplay/pve.md), and achieve high ranks on leaderboards. These rewards incentivize competitive play and encourage players to explore all facets of the game.
    * **Daily Missions and Events**: BST is distributed through daily missions, special events, and seasonal tournaments, providing continuous opportunities to earn and grow their token holdings.
 3. **Staking and Yield Farming**:
-   * **Earning Passive Income**: Players can stake their BST tokens to earn passive income through [staking mechanisms](staking.md) and yield farming opportunities. Staking not only provides additional rewards but also plays a vital role in the stability and growth of the Beast Borne economy.
+   * **Earning Passive Income**: Players can stake their BST tokens to earn passive income through [staking mechanisms](staking/) and yield farming opportunities. Staking not only provides additional rewards but also plays a vital role in the stability and growth of the Beast Borne economy.
 
 ### **Integration with the Beast Borne Ecosystem**
 
