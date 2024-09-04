@@ -10,7 +10,7 @@ description: v1.0.0
 
 Each creature possesses a set of 4 abilities that are crucial in combat. Abilities are categorized by targeting type—single-target, multi-target, and random target—and can perform various effects such as:
 
-* [**Attack:** attack ability based on creature type.](#user-content-fn-1)[^1]
+* Attack: attack ability based on creature type.
 * **Stun**: Temporarily disables a creature.
 * **Damage Over Time (DOT)**: Inflicts continuous damage.
 * **Buff**: Temporarily enhances a creature’s stats.
@@ -57,5 +57,3 @@ Based on the type of the creature, each of them has its default melee attacks. T
 * Zunnies -  Zunny melee
 * Moon bits - Moon bits melee
 * Oregon - Oregon Head bump
-
-[^1]: 
