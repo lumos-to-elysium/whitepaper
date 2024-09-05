@@ -7,14 +7,14 @@ The **Beast Borne**, staking model rewards players, based on the amount of **Bea
 Your share of the overall staking pool determines the daily rewards earned through staking in Beast Borne. The formula for calculating daily interest is:
 
 $$
-\text{Daily Interest} = \frac{\text{Shares}}{\text{Total Shares}} \times \text{Daily Payout Pool}
+\text{Daily Interest} = \frac{\text{Shares}}{\text{Total Shares}} \times \text{Payout Pool}
 $$
 
 Where:
 
 * **Shares**: The number of shares you hold is determined by the amount of BST you staked and the duration of your stake.
 * **Total Shares**: The total number of shares held by all stakers in the system.
-* **Daily Payout Pool**: The total amount of BST distributed to stakers each day, influenced by the system's inflation rate and penalties from early or late unstakers.
+* **Payout Pool**: The total amount of BST distributed to stakers each day, influenced by the system's inflation rate and penalties from early or late unstakers.
 
 ## **Shares Calculation**
 
@@ -41,14 +41,14 @@ Here, the system sets the **LPB** multiplier, with the maximum **LPB** achieved 
 Interest (or rewards) accumulates throughout the staking period. The total reward by the end of the staking period is calculated as:
 
 $$
-\text{Total Rewards} = \sum_{n=1}^{N} \left(\frac{\text{Shares}}{\text{Total Shares}_n} \times \text{Daily Payout Pool}_n \right)
+\text{Total Rewards} = \sum_{n=1}^{N} \left(\frac{\text{Shares}}{\text{Total Shares}_n} \times \text{Payout Pool}_n \right)
 $$
 
 Where:
 
 * **N**: The number of days in the staking period.
 * **Total Shares\_n**: The total shares in the system on day ( n ).
-* **Daily Payout Pool\_n**: The daily payout pool on day ( n ).
+* **Payout Pool\_n**: The daily payout pool on day ( n ).
 
 ## **Early Unstaking Penalty**
 
@@ -88,8 +88,12 @@ Where:
 #### **Staking 10,000 BST for 1 Month (30 days)**
 
 $$
-\text{Shares} = 10,000 \times 1 \times \left(1 + \frac{30}{1820} \times 2 \right) = 10,329.67
+\text{Shares} = 10'000 \times 1 \times \left(1 + \frac{30}{1820} \times 2 + \frac{10'000}{100'000} \right) = 10,329.67
 $$
+
+
+
+
 
 $$
 \text{Daily Interest} = \frac{10,329.67}{1,000,000} \times 1,000 = 10.33BST
