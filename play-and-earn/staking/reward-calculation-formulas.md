@@ -4,7 +4,7 @@ The **Beast Borne**, staking model rewards players, based on the amount of **Bea
 
 ## **Daily Interest Calculation**
 
-The daily rewards earned through staking in Beast Borne are determined by your share of the overall staking pool. The formula for calculating daily interest is:
+Your share of the overall staking pool determines the daily rewards earned through staking in Beast Borne. The formula for calculating daily interest is:
 
 $$
 \text{Daily Interest} = \frac{\text{Shares}}{\text{Total Shares}} \times \text{Daily Payout Pool}
@@ -21,20 +21,20 @@ Where:
 When you stake BST, you receive shares based on the amount of BST staked and the length of the stake. The formula for calculating shares is:
 
 $$
-\text{Shares} = \text{BST Staked} \times \text{Share Rate} \times \text{Longer Pays Better (LPB)}
+\text{Shares} = \text{BST Staked} \times \text{Share Rate} \times \text{Bonus Rate}
 $$
 
 Where:
 
 * **BST Staked**: The amount of BST you lock in the stake.
 * **Share Rate**: A system-defined rate that increases over time, making earlier stakes more valuable.
-* **Longer Pays Better (LPB)**: A bonus multiplier for staking longer periods. This bonus is typically calculated as:
+* **Bonus Rate**: A bonus multiplier for staking more and longer periods. This bonus is calculated as:
 
 $$
-\text{Longer Pays Better} = 1 + \left(\frac{\text{Staking Days}}{1820}\right) \times \text{LPB Multiplier}
+\text{Bonus Rate} = 1 + \left(\frac{\text{Staking Days}}{3650}\right) \times \text{LPB Multiplier}+ \left(\frac{\text{BST Staked}}{100'000}\right) \times \text{MPB Multiplier}
 $$
 
-Here, the system sets the **LPB** multiplier, with the maximum **LPB** achieved for a 10-year stake (3,650 days) effectively doubling the shares.
+Here, the system sets the **LPB** multiplier, with the maximum **LPB** achieved for a 10-year stake (3,650 days) effectively doubling the shares and M**PB** multipliers.
 
 ## **Interest Accumulation Over Time**
 
