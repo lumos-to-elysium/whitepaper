@@ -12,7 +12,7 @@ The **Beast Coin (BST)** is the native utility token of the Beast Borne ecosyste
 
 1. **In-Game Currency**:
    * **Purchases and Upgrades**: BST can be used to purchase various in-game items, upgrades, and assets, including Healing Potions, special abilities, and exclusive creature skins. It is essential for actions such as reshuffling abilities, participating in high-stakes battles, and unlocking premium content.
-   * **Breeding and Marketplace Transactions**: Players use BST to [breed creatures](breeding.md), with costs varying depending on the rarity and type of the parent creatures. Additionally, BST serves as the primary currency for trading creatures and items in the [marketplace](marketplace.md), making it a cornerstone of the in-game economy.
+   * **Breeding and Marketplace Transactions**: Players use BST to [breed creatures](breeding.md), with costs varying depending on the rarity and type of the parent creatures. Additionally, BST serves as the primary currency for trading creatures and items in the [marketplace](broken-reference), making it a cornerstone of the in-game economy.
 2. **Rewards and Incentives**:
    * **PvP and PvE Rewards**: BST is awarded to players who excel in [PvP matches](../gameplay/pvp.md), complete [PvE missions](../gameplay/pve.md), and achieve high ranks on leaderboards. These rewards incentivize competitive play and encourage players to explore all facets of the game.
    * **Daily Missions and Events**: BST is distributed through daily missions, special events, and seasonal tournaments, providing continuous opportunities to earn and grow their token holdings.

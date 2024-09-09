@@ -1,5 +1,19 @@
 # Beast Borne Roadmap
 
+## 2023 - 2024
+
+* In-house development and verifying game mechanics
+* Early marketing activities
+* Tokenomics development
+* Game Unit economy development
+* Initial project funding
+
+## 2024 Q3 (July - September)
+
+* Security audit
+* Closed beta launch
+* Private Sale 1: 500'000 $BST offered to early adopters and initial investors
+
 ## 2024 Q4 (October - December)
 
 * The official launch of Beast Borne will include core gameplay features, including PvE and PvP modes.
