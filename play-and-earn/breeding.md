@@ -4,7 +4,7 @@ description: v1.0.0
 
 # Breeding
 
-<figure><img src="../.gitbook/assets/Icon_eggs.png" alt="" width="100"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/breed_and_customize_ico.png" alt="" width="160"><figcaption></figcaption></figure>
 
 ## **Parent Creatures**
 
@@ -32,6 +32,10 @@ description: v1.0.0
 The distinction between Parent and Children Creatures creates a strategic layer in Beast Borne, influencing how players approach breeding, battles, and resource management. Parent Creatures hold intrinsic value due to their breeding capabilities and play a crucial role in expanding the game's ecosystem by creating new, diverse Children Creatures.
 
 As the supply of Parent Creatures is fixed, their value is expected to increase over time, especially as the game grows and the demand for new, unique Children Creatures rises. This dynamic encourages players to manage their Parent Creatures carefully, maximizing their potential through strategic breeding and gameplay decisions.
+
+
+
+<figure><img src="../.gitbook/assets/Icon_eggs.png" alt="" width="100"><figcaption></figcaption></figure>
 
 ## The breeding
 

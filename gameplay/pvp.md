@@ -1,6 +1,6 @@
 # PvP
 
-<figure><img src="../.gitbook/assets/Pvp.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pvp_ico.png" alt="" width="285"><figcaption></figcaption></figure>
 
 ## PvP Mode
 
@@ -26,6 +26,8 @@ Matchmaking is based on rank points, prioritizing players at the same rank or wi
   * **Losing**: Players earn 10 XP and have a chance to receive a health potion.
 
 Regular Mode is a practice ground, helping players refine their tactics before diving into the more competitive Ranked Mode.
+
+<figure><img src="../.gitbook/assets/Pvp.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### **Ranked Mode**
 

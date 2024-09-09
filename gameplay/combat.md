@@ -1,5 +1,7 @@
 # Combat
 
+<figure><img src="../.gitbook/assets/compete_ico.png" alt="" width="285"><figcaption></figcaption></figure>
+
 ## Combat
 
 Combat is a central element of **Beast Borne**, offering players thrilling and strategic battles in both PvP and PvE modes. The combat system combines tactical decision-making with dynamic creature abilities, ensuring each battle is unique and engaging.
