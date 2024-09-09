@@ -43,10 +43,10 @@ When completing the mission for the first time, the player will get account XP a
 
 If the player completes the mission with 1 star, the player gets the rewards according to the mission. After that, if the player tries again and gets 3 stars on the same mission, the player will get the remaining rewards of that mission (250 crystals and 160xp).&#x20;
 
-Also, completing the mission for the first time, the player will also earn a health potion. You can see the health potion drop chances via this [link](https://docs.google.com/spreadsheets/d/19aigeJu5Te6EpjQJS7QM7fqEP6cnmh6P-ZtIOSM9us4/edit?usp=sharing).
+Also, completing the mission for the first time, the player will also earn a health potion. You can see the health potion drop chances [here](combat.md#drop-chances).
 
 ## Daily missions
 
-Every day players will get a new daily mission, where they will need to fight 3 random creatures in a random environment. Daily missions refresh every 24 hours and can be completed once each day. After failing the mission players still will be able to try win it in order to get rewards before it refreshes.&#x20;
+Every day, players will get a new daily mission, in which they must fight 3 random creatures in a random environment. Daily missions refresh every 24 hours and can be completed once each day. After failing the mission, players can still try to win it to get rewards before it refreshes.&#x20;
 
 Completing a daily mission rewards 300 crystals, 1 coin and 100xp.\
