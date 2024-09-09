@@ -57,3 +57,5 @@ The treasury allocation will ensure the long-term sustainability of the Beast Bo
 ### Private Sale
 
 ### Public Sale
+
+TBA Early of 2025

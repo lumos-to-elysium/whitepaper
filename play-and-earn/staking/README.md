@@ -32,7 +32,7 @@ Stakers earn interest on their staked BST, which compounds over time. The intere
 
 ### **Flexibility and Control**
 
-While the HEX.io model emphasizes long-term commitment, it also provides flexibility. Stakers can ladder their stakes—creating multiple stakes with different end dates—to maintain liquidity while still participating in the staking rewards.
+The staking model emphasizes long-term commitment, it also provides flexibility. Stakers can ladder their stakes—creating multiple stakes with different end dates—to maintain liquidity while still participating in the staking rewards.
 
 ## **Benefits of Staking BST**
 
