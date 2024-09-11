@@ -1,6 +1,6 @@
 # Roadmap
 
-## 2023 - 2024
+## 2022 - 2024
 
 * In-house development and verifying game mechanics
 * Early marketing activities
