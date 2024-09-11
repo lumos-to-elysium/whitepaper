@@ -1,4 +1,4 @@
-# Beast Borne Roadmap
+# Roadmap
 
 ## 2023 - 2024
 
@@ -55,20 +55,20 @@
 * Release of In-Game Achievements and Trophies, with rewards tied to player milestones
 * Introducing Guilds and Team vs Team Matches
 
-## 2026 Q1 (January - March)
+## 2026
 
 * Listing $BST on Huobi
 * Integration with popular NFT marketplaces, allowing players to trade creatures, ability cards, and other in-game assets
 * Launch of the first PvE Raid Event, allowing players to team up against powerful bosses.
-
-## 2026 Q2 (April - June)
-
 * Partnership with other blockchain projects to expand the $BST ecosystem
+
+## 2027
+
 * Bridging $BST to Solana ecosystem via Portal Bridge
 * Listing $BST on Raydium
 * Introduction of $BST utility beyond the game as rewards in other DeFi projects with exclusive access to partner ecosystems
 
-## Long-Term Vision
+## Long-Term Vision (2027 - 2030)
 
 * Continuous Content Updates with new creatures, abilities, game modes, and events.
 * Long-term Sustainability Initiatives for the BST token economy, ensuring healthy growth and value for the community.
