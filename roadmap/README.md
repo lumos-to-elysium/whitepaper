@@ -16,7 +16,7 @@
 
 ## 2024 Q4 (October - December)
 
-* The official launch of Beast Borne will include core gameplay features, including PvE and PvP modes.
+* The official launch of Beast Borne that includes core gameplay features, including PvE and PvP modes
 * Introduction of the Beast Coin (BST) token as the in-game currency.
 * The initial release of Parent Creatures and Children Creatures with basic breeding mechanics.
 * Staking functionality for $BST, enabling Players and Investors to earn rewards through staking.
