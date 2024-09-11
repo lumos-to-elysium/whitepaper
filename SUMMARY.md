@@ -18,6 +18,6 @@
   * [Staking](play-and-earn/staking/README.md)
     * [Reward Calculation Formulas](play-and-earn/staking/reward-calculation-formulas.md)
 * [Team](team.md)
-* [Beast Borne Roadmap](roadmap/README.md)
+* [Roadmap](roadmap.md)
 * [Risks & Disclaimers](risks-and-disclaimers/README.md)
   * [User Security](risks-and-disclaimers/user-security.md)
